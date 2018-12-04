@@ -2,7 +2,7 @@
 
 > Plastic is an Elasticsearch ODM and mapper for Laravel. It renders the developer experience more enjoyable while using Elasticsearch, by providing a fluent syntax for mapping, querying, and storing eloquent models.
 
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/sleimanx2/plastic) [![Build Status](https://travis-ci.org/sleimanx2/plastic.svg?branch=master&&refresh=2)](https://travis-ci.org/sleimanx2/plastic) [![StyleCI](https://styleci.io/repos/58264395/shield)](https://styleci.io/repos/58264395)
+[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/yogarine/plastic)
 
 > This package is still under active development and may change.
 
@@ -11,7 +11,7 @@
 # Installing Plastic
 
 ```bash
-composer require sleimanx2/plastic
+composer require yogarine/plastic
 ```
 
 If you are using **Laravel >=5.5** the service provider will be **automatically discovered** otherwise we need to add the plastic service provider to `config/app.php` under the providers key:
